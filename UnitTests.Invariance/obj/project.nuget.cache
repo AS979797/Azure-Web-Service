@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h3M3hL5Lxgs=",
-  "success": false,
-  "projectFilePath": "E:\\It-sikkerhed\\2.semester\\øvelse36\\øvelse36\\UnitTests.Invariance\\UnitTests.Invariance.csproj",
+  "dgSpecHash": "5r4PYrNaTaQ=",
+  "success": true,
+  "projectFilePath": "E:\\It-sikkerhed\\2.semester\\Azure-Web-Service\\UnitTests.Invariance\\UnitTests.Invariance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmad\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\ahmad\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
@@ -94,15 +94,5 @@
     "C:\\Users\\ahmad\\.nuget\\packages\\xunit.extensibility.execution\\2.5.3\\xunit.extensibility.execution.2.5.3.nupkg.sha512",
     "C:\\Users\\ahmad\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.3\\xunit.runner.visualstudio.2.5.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'E:\\It-sikkerhed\\2.semester\\øvelse36\\øvelse36\\øvelse26\\ValidateTheNameModelBinding.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "E:\\It-sikkerhed\\2.semester\\øvelse36\\øvelse36\\øvelse26\\ValidateTheNameModelBinding.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }
